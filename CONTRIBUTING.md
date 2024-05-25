@@ -18,11 +18,12 @@ Fork, then clone the repo:
 git clone https://github.com/your-username/react-otp-input.git
 
 ```
-## To run the vite example:
+#### To run the vite example:
 
+```
 cd example
 npm run dev
-
+```
 
 ## New Features
 
