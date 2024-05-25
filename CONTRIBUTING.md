@@ -1,8 +1,8 @@
 # Contributing
 
-We are open to, and grateful for, any contributions made by the community. By contributing to react-otp-input, you agree to abide by the [code of conduct](https://github.com/reduxjs/react-redux/blob/master/CODE_OF_CONDUCT.md).
+[![GitHub issues](https://img.shields.io/github/issues-raw/devfolioco/react-otp-input?logo=github)](https://github.com/devfolioco/react-otp-input/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/devfolioco/react-otp-input?logo=git)](https://github.com/devfolioco/react-otp-input/pulls)
 
-Please review the [Redux Style Guide](https://redux.js.org/style-guide/style-guide) in the Redux docs to keep track of our best practices.
+Feel free to open [issues](https://github.com/devfolioco/react-otp-input/issues/new/choose) and [pull requests](https://github.com/devfolioco/react-otp-input/pulls)!
 
 ## Reporting Issues and Asking Questions
 
@@ -23,10 +23,9 @@ npm install
 ```
 cd example
 npm run dev
-```
 
 
-### New Features
+## New Features
 
 Please open an issue with a proposal for a new feature or refactoring before starting on the work. We don't want you to waste your efforts on a pull request that we won't want to accept.
 
